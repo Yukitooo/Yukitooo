@@ -9,7 +9,7 @@
 
 - 🎓 I graduated with a degree in **Computer Engineering**
 - 🧠 I’m currently diving deep into **AI/ML and Software Development**
-- 🔭 Working on cool projects using **Python, PyTorch, OpenAI APIs**, and a newbie on **ReactJS + Tailwind**
+- 🔭 Working on cool projects using **Python, PyTorch, OpenAI APIs** together with **ReactJS** and **Tailwind CSS**
 - 💡 I love building things that are both **smart** and **useful**... and fun 🎉
 - 🐾 Fun fact: I write better code with lo-fi beats and chocolate nearby 🍫
 
@@ -27,13 +27,13 @@
 ### 🎯 My Current Goals
 
 - [x] Graduate with a Computer Engineering degree 🎓
-- [ ] Build my personal portfolio site 🌐
+- [x] Build my personal portfolio site 🌐
 - [ ] Create 3 solid AI/ML projects using PyTorch 🧠
 - [ ] Get confident with React + Tailwind 💅
 - [ ] Contribute to an open-source project 🌍
 - [ ] Land my first AI/ML or Software Engineering role 💼
 - [ ] Share my learning journey on GitHub & LinkedIn ✍️
-- [ ] Stay consistent, even on the hard days 🎯
+- [x] Stay consistent, even on the hard days 🎯
 - [ ] Have abs 💪
 
 > _"Dream big. Start small. Act now."_ 🌱
