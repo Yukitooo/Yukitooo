@@ -7,7 +7,7 @@
 
 ### 🌱 About Me
 
-- 🎓 I graduated with a degree in **Computer Engineering**
+- 🎓 I graduated from **De La Salle University**  with a degree in **Computer Engineering**
 - 🧠 I’m currently diving deep into **AI/ML and Software Development**
 - 🔭 Working on cool projects using **Python, PyTorch, OpenAI APIs** together with **ReactJS** and **Tailwind CSS**
 - 💡 I love building things that are both **smart** and **useful**... and fun 🎉
