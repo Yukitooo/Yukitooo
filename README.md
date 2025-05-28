@@ -31,6 +31,7 @@
 - [ ] LEARN BACKEND AND DATABASE ASAP!! (FULLSTACK).. probably MERN. 
 - [ ] Get confident with React + Tailwind 💅
 - [ ] Contribute to an open-source project 🌍
+- [ ] Create solid AI and fullstack projects 👾
 - [ ] Land my first AI/ML or Software Engineering role 💼
 - [ ] Share my learning journey on GitHub & LinkedIn ✍️
 - [x] Stay consistent, even on the hard days 🎯
