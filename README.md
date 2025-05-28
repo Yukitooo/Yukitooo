@@ -28,7 +28,7 @@
 
 - [x] Graduate with a Computer Engineering degree 🎓
 - [x] Build my personal portfolio site 🌐
-- [ ] Create 3 solid AI/ML projects using PyTorch 🧠
+- [ ] LEARN BACKEND AND DATABASE ASAP!! (FULLSTACK)
 - [ ] Get confident with React + Tailwind 💅
 - [ ] Contribute to an open-source project 🌍
 - [ ] Land my first AI/ML or Software Engineering role 💼
