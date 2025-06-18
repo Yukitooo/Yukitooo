@@ -28,11 +28,10 @@
 
 - [x] Graduate with a Computer Engineering degree 🎓
 - [x] Build my personal portfolio site 🌐
-- [ ] LEARN BACKEND AND DATABASE ASAP!! (FULLSTACK).. probably MERN. 
+- [x] LEARN BACKEND AND DATABASE ASAP!! (FULLSTACK).. probably MERN. 
 - [ ] Get confident with React + Tailwind 💅
-- [ ] Contribute to an open-source project 🌍
 - [ ] Create solid AI and fullstack projects 👾
-- [x] Land my first AI/ML or Software Engineering role 💼 EDIT:  IM A FULLSTACK ENG/ AND AI DEVELOPER NOW!
+- [x] Land my first AI/ML or Software Engineering role. <h2> EDIT:  IM A FULLSTACK ENG/ AND AI DEVELOPER NOW!</h2>
 - [ ] Share my learning journey on GitHub & LinkedIn ✍️
 - [x] Stay consistent, even on the hard days 🎯
 - [ ] Have abs 💪
