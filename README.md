@@ -32,7 +32,7 @@
 - [ ] Get confident with React + Tailwind 💅
 - [ ] Contribute to an open-source project 🌍
 - [ ] Create solid AI and fullstack projects 👾
-- [ ] Land my first AI/ML or Software Engineering role 💼
+- [x] Land my first AI/ML or Software Engineering role 💼 EDIT:  IM A FULLSTACK ENG/ AND AI DEVELOPER NOW!
 - [ ] Share my learning journey on GitHub & LinkedIn ✍️
 - [x] Stay consistent, even on the hard days 🎯
 - [ ] Have abs 💪
