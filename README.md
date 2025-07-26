@@ -12,6 +12,7 @@
 - 🔭 Working on cool projects using **Python, PyTorch, OpenAI APIs** together with **ReactJS** and **Tailwind CSS**
 - 💡 I love building things that are both **smart** and **useful**... and fun 🎉
 - 🐾 Fun fact: I write better code with lo-fi beats and chocolate nearby 🍫
+- I work for a Korean Software Company
 
 ---
 
